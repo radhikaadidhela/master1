@@ -1,0 +1,13 @@
+.sfdx/
+.sf/
+.vscode/settings.json
+node_modules/
+coverage/
+*.log
+.env
+.env.*
+# Never commit identity documents/secrets
+*EAD*
+*passport*
+*Driver*License*
+DL.jpg
